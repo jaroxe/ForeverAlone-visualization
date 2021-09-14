@@ -1,4 +1,18 @@
 # ForeverAlone-visualization
+
+### Update ###
+
+Some links in this repo are not functional anymore. Check instead:
+
+* The ForeverAlone visualization can be found at the bottom of this page:
+  * https://nishancm.github.io/ (takes a few seconds to load)
+* This is the repo that hosts it:
+  * https://github.com/nishancm/nishancm.github.io
+* For an explanation of how this visualization was produced, check:
+  * https://github.com/nishancm/nishancm.github.io/blob/master/Code/Generate_ForeverAlone_visualization.ipynb
+
+-----------------------
+
 Interactive visualization of the demographic /r/ForeverAlone dataset
 
 Details and visualization following the link:<br>
